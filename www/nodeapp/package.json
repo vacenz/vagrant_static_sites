@@ -1,0 +1,6 @@
+{
+  "name": "nodeprojects",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
