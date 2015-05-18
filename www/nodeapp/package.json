@@ -1,5 +1,5 @@
 {
-  "name": "nodeprojects",
+  "name": "vagrantstatic",
   "dependencies": {
     "express": "^4.10.6"
   }
