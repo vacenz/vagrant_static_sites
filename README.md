@@ -17,3 +17,7 @@ To run the localhost node app
 To navigate to one of your static projects just go to it in the browser:
 
 	http://192.168.56.95:4830/static/demo/
+	
+## License
+
+[MIT](http://isekivacenz.mit-license.org/)
